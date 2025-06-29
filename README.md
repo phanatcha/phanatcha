@@ -1,7 +1,7 @@
 # Hi, I'm Phanatcha!
 
 # 💫 About Me:
-<br>👩🏻‍💻 Third-year Digital Engineering student at SIIT, Thammasat University.<br>🔧 Passionate about software development, embedded systems, and tech for social good.<br>💭 Currently learning about building a static site generator.
+<br>👩🏻‍💻 Third-year Digital Engineering student at SIIT, Thammasat University.<br>🔧 Passionate about software development, embedded systems, and tech for social good.<br>
 
 
 ## 🌐 Socials:
