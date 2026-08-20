@@ -1,5 +1,5 @@
 # Welcome to Phanatcha's Zone
-Hi, I'm Phanatcha! I'm a third-year digital engineering student at SIIT, Thammasat University.
+Hi, I'm Phanatcha! I'm a fourth-year digital engineering student at SIIT, Thammasat University.
 <br> Currently, I'm passinate about graphics programming! <br>
 
 ### 🌐 Socials:
